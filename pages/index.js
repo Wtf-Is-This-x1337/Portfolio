@@ -96,11 +96,11 @@ const Home = () => (
         </Heading>
         <Paragraph>
           Art, Music,
-          <Link href="https://tryhackme.com/p/WtfIsThis" target="_blank">
+          <Link href="https://github.com/Wtf-Is-This-x1337/" target="_blank">
           {' '}Programming
           </Link>
           , Machine Learning and
-          <Link href="" target="_blank">
+          <Link href="https://tryhackme.com/p/WtfIsThis" target="_blank">
           {' '}CTFs{' '}
           </Link>
         </Paragraph>
