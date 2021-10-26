@@ -69,7 +69,7 @@ const Home = () => (
           Work
         </Heading>
         <Paragraph>
-          I'm a student
+          I&apos;m a student
         </Paragraph>
         <Box align="center" my={4}>
           <NextLink href="/works">
