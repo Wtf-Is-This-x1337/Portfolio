@@ -40,7 +40,7 @@ const Works = () => (
             title="Chat Server"
             thumbnail={thumbServer}
           >
-            A server in C++ that echos the client's messages back. It allows multiple clients to connect using the fd_set structure, the select() function and three macros: FD_CLR, FD_SET and FD_ZERO
+            A server in C++ that echos the client&apos;s messages back. It allows multiple clients to connect using the fd_set structure, the select() function and three macros: FD_CLR, FD_SET and FD_ZERO
           </GridItem>
           <GridItem
             href="https://github.com/Wtf-Is-This-x1337/ChatClient"
@@ -66,7 +66,7 @@ const Works = () => (
             thumbnail={thumbScripts}
             title="Useful Scripts"
           >
-            Useful scripts for making developer's everyday life easier and happier
+            Useful scripts for making developer&apos;s everyday life easier and happier
           </GridItem>
         </Section>
       </SimpleGrid>
